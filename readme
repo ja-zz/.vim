@@ -1,2 +1,4 @@
 it's just ale and dracula
 i just put this here to save myself time
+
+autoload/plug.vim is under mit license (c) 2017 Junegunn Choi, see license.plug
